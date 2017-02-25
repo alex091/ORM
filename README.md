@@ -1,1 +1,1 @@
-# ORM
+Developed basic ORM for better understanding how to work with relational databases.
